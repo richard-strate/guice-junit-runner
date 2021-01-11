@@ -1,7 +1,9 @@
 guice-junit-runner
 ====
 
-**Continuous Integration:** [![Build Status](https://api.travis-ci.org/marcolamberto/guice-junit-runner.png?branch=master)](https://travis-ci.org/marcolamberto/guice-junit-runner) <br/>
+This is a forked version of [guice-junit-runner](https://github.com/marcolamberto/guice-junit-runner) 1.0.2. It was created as I didn't get the original to build. It is not built or release on any public site.
+
+# From marcolamberto
 
 A Guice JUnit Runner
 
